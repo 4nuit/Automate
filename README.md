@@ -23,4 +23,3 @@ Pour visualiser le graphe dans fichier.png, éxécuter:
 
 
 # Automate
-# Automate
