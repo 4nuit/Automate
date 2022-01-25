@@ -1,4 +1,4 @@
-https://github.com/0x14mth3n1ght/Automate/blob/main/automate.gif
+github.com/0x14mth3n1ght/Automate/blob/main/automate.gif
 
 Dans un shell Unix :
     
