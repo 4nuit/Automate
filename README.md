@@ -1,9 +1,6 @@
-Décompresser l'archive avec :
-    
-    -7zip ou Rar sur Windows
-    -tar zxvf archive.tgz dans un terminal Linux ou MacOs
+https://github.com/0x14mth3n1ght/Automate/blob/main/automate.gif
 
-Puis dans un shell Unix :
+Dans un shell Unix :
     
     -WSL (cd /mnt/c pour accéder au répertoire C:) ou Virtualbox linux (dossiers partagés) sous Windows
     -terminal pour Linux ou MacOs
