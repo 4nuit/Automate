@@ -1,14 +1,10 @@
 ![Alt text](https://github.com/0x14mth3n1ght/Automate/blob/main/automate.gif)
 
-Dans un shell Unix :
+Éxécuter dans un shell Unix :
     
-    -WSL (cd /mnt/c pour accéder au répertoire C:) ou Virtualbox linux (dossiers partagés) sous Windows
-    -terminal pour Linux ou MacOs
+    -make && ./automaton word.aut
 
-Compiler avec make
-puis éxécuter ./automaton fichier.aut
-
-Si le fichier est reconnu, entrer les caractères souhaités, 10 entrées sont autorisées;
+Si le fichier (ici word.aut) est reconnu, entrer les caractères souhaités, 10 entrées sont autorisées;
 
 fichier.aut devant retourner Accepte si le mot est reconnu, Rejette sinon.
 
