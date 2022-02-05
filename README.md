@@ -2,7 +2,7 @@
 
 Éxécuter dans un shell Unix :
     
-    -make && ./automaton word.aut
+    make && ./automaton word.aut
 
 Si le fichier (ici word.aut) est reconnu, entrer les caractères souhaités, 10 entrées sont autorisées;
 
